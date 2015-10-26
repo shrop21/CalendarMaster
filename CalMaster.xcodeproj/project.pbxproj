@@ -413,6 +413,7 @@
 				41D2B6041BCB724F00A32E32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		41D2B6051BCB724F00A32E32 /* Build configuration list for PBXNativeTarget "CalMasterTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +422,7 @@
 				41D2B6071BCB724F00A32E32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
